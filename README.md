@@ -53,3 +53,5 @@ If you would like to discuss the project or collaborate, feel free to reach out 
 LinkedIn - https://www.linkedin.com/in/aidan-jaramillo-tx/
 
 Email - aidanjaramillo@gmail.com
+
+Power BI Dashboard - https://app.powerbi.com/view?r=eyJrIjoiNjdmZjZlZjUtZjczZS00Nzk4LWExY2YtNjNkMjQ2ZjA5Y2MzIiwidCI6IjcwZGUxOTkyLTA3YzYtNDgwZi1hMzE4LWExYWZjYmEwMzk4MyIsImMiOjN9&pageName=f1a03fa159e4c86f2006
