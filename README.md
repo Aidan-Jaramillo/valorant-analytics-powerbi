@@ -20,12 +20,12 @@ Raw CSV gameplay files were cleaned, structured into a MySQL relational database
 - AI-assisted design + debugging guidance
 
 ## End-to-end Data Pipeline
-1. Cleaned and validated raw .csv gameplay files.
+1. Cleaned and validated raw '.csv' gameplay files.
 2. Wrote SQL scripts to create relational MySQL tables.
 3. Loaded data using LOAD DATA INFILE.
 4. Ran analytical SQL queries for performance insights.
 5. Connected Power BI to MySQL for modeling.
-6. Designed a 7 page interactie dashboard with KPIs and insights.
+6. Designed a 7 page interactive dashboard with KPIs and insights.
 
 ## Key Insights Identified
 - Multi kill frequency, identifying top performing players from different teams.
