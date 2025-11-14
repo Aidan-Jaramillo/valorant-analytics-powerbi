@@ -50,5 +50,5 @@ AI tools were used strategically to enhance speed, quality, and creativity:
 ## Contact
 If you would like to discuss the project or collaborate, feel free to reach out to me through my various platforms.
 
-LinkedIn = [LinkedIn](https://www.linkedin.com/in/aidan-jaramillo-tx/)
+LinkedIn = [LinkedIn](https://www.linkedin.com/in/aidan-jaramillo-tx/)\
 Email - aidanjaramillo@gmail.com
